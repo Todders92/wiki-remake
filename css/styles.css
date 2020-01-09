@@ -7,3 +7,22 @@
 .right {
   float: right;
 }
+
+#ham {
+  float: left;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+#purple {
+  background: rgb(240, 226, 243)
+}
+
+#purpanel {
+  vertical-align: middle;
+}
